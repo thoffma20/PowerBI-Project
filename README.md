@@ -1,2 +1,2 @@
 # PowerBI-Project
-provide a brief 2-3 sentence summary of the insight i gained through the power BI project i completed about a survey completed by multiple people in the data industry
+I organized and analyzed data from data professionals to uncover insights about average salary, work-life balance, preferred programming languages, and more.  This project enhanced my ability to visualize and interpret industry trends, helping me better understand the factors that influence career satisfaction and success in the data field. 
